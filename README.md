@@ -51,3 +51,10 @@ This options is interactive using Plotly and provides the count of dogs grouped 
 
 ![barcolor2](Images/barcolor2.png)
 
+8. RoughViz Donut Plot
+
+A quick pip install of py-roughviz will provide a sketch-board view on steriods!  I used this method to create an nteractive donut plot of mixed breeds among the adoptable dogs in the U.S.
+
+![donut](Images/donut.png)
+
+
