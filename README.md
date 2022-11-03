@@ -58,3 +58,4 @@ A quick pip install of py-roughviz will provide a sketch-board view on steriods!
 ![donut](Images/donut.png)
 
 
+* Special credit to [Medium](https://medium.com/mlearning-ai/visualization-tools-with-python-2d6c6a0d7a02) [Meredith Wang](https://github.com/m3redithw/data-science-visualizations) for the content provided
