@@ -11,3 +11,43 @@ Exploratory data analysis (EDA) is much easier to interpret when visualization i
 This option is available when you import missingo. It provides a display of missing values and ignores columns with and NaNs. 
 
 ![grayscale](Images/grayscale.png)
+
+2. Bar Chart
+
+Provides a view of the dataset so you can select the data you would like to analyse.  You can see all the columns including the values.  The larger the column the more dogs available within that breed.
+
+![barchart](Images/barchart.png)
+
+3. Heatmap
+
+A heatmap is a great way of looking for like data within a dataset.  
+    When the value is close to -1, it means the one variable appears then the other variable is very likely to be missing.
+    When the value is close to 0, it means that there is no dependence between the occurrence of missing values of the two variables.
+    When the value is close to 1, it means one variable appears then the other variable is very likely to be present.
+
+![heatmap](Images/heatmap.png)
+
+4. Seaborn
+
+Seaborn provides a visualiztion based on matplotlib.  The rendering time is quick and provides customization that you can tweet to your liking. Seaborn.barplot is a simple bar chart that will provide quick view to see your data within the catagory you specify.  In this dataset I do a grouping of available dogs by breed.
+
+![barcolor](Images/barcolor.png)
+
+5. Seaborn.countplot
+
+Provides quantitive differences across categorical variables. Utilizing this method you can see how many adoptable dogs are house trained in the U.S. verses those that are not.
+
+![seaborncountplot](Images/seaborncountplot.png)
+
+6. Maplotlib
+
+This funcition generates a line plot of adoptable dogs over time.
+
+![lineplot](Images/lineplot.png)
+
+7. Plotty Bar Chart
+
+This options is interactive using Plotly and provides the count of dogs grouped by breed and uses a color per breed.
+
+![barcolor2](Images/barcolor2.png)
+
