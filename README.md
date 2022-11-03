@@ -57,7 +57,7 @@ A quick pip install of py-roughviz will provide a sketch-board view on steriods!
 
 ![donut](Images/donut.png)
 
-And just think all of these visualization came from this CSV file
+And just think all of these visualization came from this CSV file! :)
 
 ![raw](Images/raw.png)
 
